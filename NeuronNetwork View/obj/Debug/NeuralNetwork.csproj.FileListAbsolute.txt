@@ -1,0 +1,30 @@
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\obj\Debug\NeuralNetwork.csprojAssemblyReference.cache
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\obj\Debug\NeuronNetwork_View.NNForms.resources
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\obj\Debug\NeuronNetwork_View.Properties.Resources.resources
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\obj\Debug\NeuronNetwork_View.Views.NNMemory.resources
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\obj\Debug\NeuralNetwork.csproj.GenerateResource.cache
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\obj\Debug\NeuronNetwork View.exe
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\obj\Debug\NeuronNetwork View.pdb
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\NeuronNetwork View.exe.config
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\NeuronNetwork View.exe
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\NeuronNetwork View.pdb
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\ZedGraph.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\ZedGraph.xml
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\obj\Debug\NeuralNetwork.csproj.CopyComplete
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\filin\Desktop\C#\MyNeuronNetwork2\NeuronNetwork View\bin\Debug\Emgu.CV.World.NetStandard.xml
