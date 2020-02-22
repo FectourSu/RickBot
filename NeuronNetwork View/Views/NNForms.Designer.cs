@@ -377,7 +377,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label4.BackColor = System.Drawing.Color.Snow;
             this.label4.Font = new System.Drawing.Font("8BIT WONDER(RUS BY LYAJKA)", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(153)))), ((int)(((byte)(225)))));
             this.label4.Location = new System.Drawing.Point(213, 405);
@@ -411,7 +411,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label5.BackColor = System.Drawing.Color.Snow;
             this.label5.Font = new System.Drawing.Font("8BIT WONDER(RUS BY LYAJKA)", 7.8F);
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(153)))), ((int)(((byte)(225)))));
             this.label5.Location = new System.Drawing.Point(234, 405);
@@ -424,10 +424,10 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label6.BackColor = System.Drawing.Color.Snow;
             this.label6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
-            this.label6.Location = new System.Drawing.Point(405, 400);
+            this.label6.Location = new System.Drawing.Point(389, 398);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(24, 28);
             this.label6.TabIndex = 35;
@@ -437,7 +437,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label7.BackColor = System.Drawing.Color.Snow;
             this.label7.Font = new System.Drawing.Font("8BIT WONDER(RUS BY LYAJKA)", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(153)))), ((int)(((byte)(225)))));
             this.label7.Location = new System.Drawing.Point(197, 407);
@@ -450,7 +450,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label8.BackColor = System.Drawing.Color.Snow;
             this.label8.Font = new System.Drawing.Font("8BIT WONDER(RUS BY LYAJKA)", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(153)))), ((int)(((byte)(225)))));
             this.label8.Location = new System.Drawing.Point(228, 407);
@@ -463,7 +463,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label9.BackColor = System.Drawing.Color.Snow;
             this.label9.Font = new System.Drawing.Font("8BIT WONDER(RUS BY LYAJKA)", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(153)))), ((int)(((byte)(225)))));
             this.label9.Location = new System.Drawing.Point(216, 407);

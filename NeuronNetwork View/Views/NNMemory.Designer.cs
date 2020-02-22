@@ -117,7 +117,7 @@
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(153)))), ((int)(((byte)(225)))));
             this.label2.Font = new System.Drawing.Font("8BIT WONDER(RUS BY LYAJKA)", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(10, 412);
+            this.label2.Location = new System.Drawing.Point(10, 419);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(65, 10);
             this.label2.TabIndex = 48;
@@ -129,7 +129,7 @@
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(153)))), ((int)(((byte)(225)))));
             this.label3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(363, 389);
+            this.label3.Location = new System.Drawing.Point(361, 387);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(51, 20);
             this.label3.TabIndex = 49;
@@ -141,7 +141,7 @@
             this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(153)))), ((int)(((byte)(225)))));
             this.label4.Font = new System.Drawing.Font("8BIT WONDER(RUS BY LYAJKA)", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(366, 412);
+            this.label4.Location = new System.Drawing.Point(366, 419);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(65, 10);
             this.label4.TabIndex = 50;
