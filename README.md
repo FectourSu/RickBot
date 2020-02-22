@@ -22,7 +22,7 @@ for positive responses
 </ul>
 
 <ul>
-<img src="img/c3d18570de89dd0.png" width = "45px" height = "45px"/> - memory load button
+<img src="img/c3d18570de89dd0.png" width = "45px" height = "45px"/> - memory load button(symbols .txt)
 </ul>
 
 <ul>
