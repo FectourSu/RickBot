@@ -289,8 +289,7 @@ namespace NeuronNetwork_View
             //рисовать
             view.pictureBox5.MouseMove += (s, e) =>
             {
-                view.pictureBox5.Cursor = new Cursor(AppDomain.CurrentDomain.BaseDirectory + "oth123.cur");
-
+                view.pictureBox5.Cursor = new Cursor(AppDomain.CurrentDomain.BaseDirectory + "oth503.cur"); //измени имя, что бы выбрать курсор
                 if (e.Button == MouseButtons.Left)
                 {
                     Point endP = new Point(e.X, e.Y);
