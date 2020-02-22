@@ -1,5 +1,5 @@
 # RickBot
-<div align = "center"><img src="giphy.gif" width="50px" height="70px"/></div>
+<div align = "center"><img src="img/giphy.gif" width="50px" height="70px"/></div>
 <h2 align = "center">
 My first NN
 </h2>
